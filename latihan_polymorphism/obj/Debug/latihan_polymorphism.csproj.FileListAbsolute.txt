@@ -1,0 +1,6 @@
+D:\SEM 2\PEMOGRAMAN\polymorphism\latihan_polymorphism\latihan_polymorphism\bin\Debug\latihan_polymorphism.exe.config
+D:\SEM 2\PEMOGRAMAN\polymorphism\latihan_polymorphism\latihan_polymorphism\bin\Debug\latihan_polymorphism.exe
+D:\SEM 2\PEMOGRAMAN\polymorphism\latihan_polymorphism\latihan_polymorphism\bin\Debug\latihan_polymorphism.pdb
+D:\SEM 2\PEMOGRAMAN\polymorphism\latihan_polymorphism\latihan_polymorphism\obj\Debug\latihan_polymorphism.csprojResolveAssemblyReference.cache
+D:\SEM 2\PEMOGRAMAN\polymorphism\latihan_polymorphism\latihan_polymorphism\obj\Debug\latihan_polymorphism.exe
+D:\SEM 2\PEMOGRAMAN\polymorphism\latihan_polymorphism\latihan_polymorphism\obj\Debug\latihan_polymorphism.pdb
